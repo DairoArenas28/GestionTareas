@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\task\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\task\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\form\\task\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\task\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\task\\formedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\task\\formedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\task\\formedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\task\\formedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\category\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\category\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\category\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\category\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\category\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\category\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|c:\\users\\dairo arenas\\downloads\\formslogintask\\windowsformslogintask\\form\\category\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\category\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5AE645-CF8B-43B8-92A2-0F03116DE4BD}|WindowsFormsLoginTask.csproj|solutionrelative:form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 185,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEditTask.cs",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormEditTask.cs",
+              "RelativeDocumentMoniker": "Form\\Task\\FormEditTask.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormEditTask.cs",
+              "RelativeToolTip": "Form\\Task\\FormEditTask.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:42:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEditTask.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormEditTask.cs",
+              "RelativeDocumentMoniker": "Form\\Task\\FormEditTask.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormEditTask.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form\\Task\\FormEditTask.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:42:52.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEditCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormEditCategory.cs",
+              "RelativeDocumentMoniker": "Form\\Category\\FormEditCategory.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormEditCategory.cs",
+              "RelativeToolTip": "Form\\Category\\FormEditCategory.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:37:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEditCategory.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormEditCategory.cs",
+              "RelativeDocumentMoniker": "Form\\Category\\FormEditCategory.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormEditCategory.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form\\Category\\FormEditCategory.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:36:58.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormCategory.cs",
+              "RelativeDocumentMoniker": "Form\\Category\\FormCategory.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormCategory.cs",
+              "RelativeToolTip": "Form\\Category\\FormCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:24:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTask.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormTask.cs",
+              "RelativeDocumentMoniker": "Form\\Task\\FormTask.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormTask.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form\\Task\\FormTask.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:52:04.01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTask.cs",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormTask.cs",
+              "RelativeDocumentMoniker": "Form\\Task\\FormTask.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Task\\FormTask.cs",
+              "RelativeToolTip": "Form\\Task\\FormTask.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAuwKkBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:52:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCategory.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormCategory.cs",
+              "RelativeDocumentMoniker": "Form\\Category\\FormCategory.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\Category\\FormCategory.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form\\Category\\FormCategory.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:24:54.484Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Form\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\FormLogin.cs",
+              "RelativeToolTip": "Form\\FormLogin.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:51:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Form\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Dairo Arenas\\Downloads\\FormsLoginTask\\WindowsFormsLoginTask\\Form\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:51:06.583Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

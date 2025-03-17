@@ -1,0 +1,17 @@
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.csproj.AssemblyReference.cache
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.FormMain.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.FormLogin.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.FormTask.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.Properties.Resources.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.csproj.GenerateResource.cache
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.csproj.CoreCompileInputs.cache
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.Form.FormCategory.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.Form.FormEditTask.resources
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\bin\Debug\WindowsFormsLoginTask.exe.config
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\bin\Debug\WindowsFormsLoginTask.exe
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\bin\Debug\WindowsFormsLoginTask.pdb
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\bin\Debug\MaterialSkin.dll
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsF.1202BC80.Up2Date
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.exe
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.pdb
+C:\Users\Dairo Arenas\Desktop\C#\WindowsFormsLoginTask\obj\Debug\WindowsFormsLoginTask.Form.Category.FormEditCategory.resources
